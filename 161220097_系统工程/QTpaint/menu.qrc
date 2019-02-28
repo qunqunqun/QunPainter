@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear.png</file>
+        <file>images/exit.png</file>
+        <file>images/help.jpg</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/print.png</file>
+        <file>images/rotate.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/shear.png</file>
+        <file>images/tool.png</file>
+        <file>images/zoom-1.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/zoom-out.png</file>
+        <file>images/mouse.png</file>
+        <file>images/back.png</file>
+        <file>images/clear_screen.png</file>
+        <file>images/refresh.png</file>
+        <file>images/ico_保洁管理_保洁登记（新）.png</file>
+        <file>images/icon_账号.png</file>
+        <file>images/保存.png</file>
+        <file>images/编辑.png</file>
+        <file>images/标记.png</file>
+        <file>images/打开文件.png</file>
+        <file>images/点赞.png</file>
+        <file>images/箭头.png</file>
+        <file>images/箭头_上下切换.png</file>
+        <file>images/垃圾桶1.png</file>
+        <file>images/删除表格.png</file>
+        <file>images/新建文件.png</file>
+        <file>images/增加学生信息.png</file>
+        <file>images/放大镜.png</file>
+        <file>images/缩小.png</file>
+        <file>images/3d.png</file>
+        <file>images/笔.png</file>
+        <file>images/点击选多边形.png</file>
+        <file>images/曲线.png</file>
+        <file>images/填充.png</file>
+        <file>images/椭圆形.png</file>
+        <file>images/圆.png</file>
+        <file>images/直线.png</file>
+        <file>images/调色盘.png</file>
+        <file>images/favicon.ico</file>
+    </qresource>
+</RCC>
